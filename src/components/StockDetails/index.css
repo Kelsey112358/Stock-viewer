@@ -1,0 +1,74 @@
+.stock-details-section {
+  margin-bottom: 5rem;
+}
+.stock_header_board p {
+  font-size: 1rem;
+  font-family: "Poppins-Light";
+}
+.stock_header_name {
+  position: relative;
+  margin-top: 2rem;
+}
+.stock_header_name p:first-child {
+  font-size: 3rem;
+  margin-right: 1rem;
+  display: inline-block;
+}
+.stock_header_name p:nth-child(2) {
+  font-size: 2rem;
+  display: inline-block;
+}
+
+.stock_header_name button {
+  position: absolute;
+  right: 0;
+}
+
+.stock_header_change > p {
+  display: inline-block;
+  font-family: "Poppins-Medium";
+  font-size: 2rem;
+  margin-right: 1rem;
+  margin-bottom: 0;
+}
+.stock_header_change p:first-child {
+  font-size: 3.5rem;
+}
+.stock_header_change_extend > p {
+  display: inline-block;
+  font-family: "Poppins-Medium";
+  font-size: 1.5rem;
+  margin-right: 1rem;
+  margin-bottom: 0;
+}
+.stock_header_change_extend p:first-child {
+  font-size: 2.5rem;
+}
+.stock_header_previousClose {
+  text-align: right;
+}
+.stock_header_previousClose p:nth-child(2) {
+  font-size: 2rem;
+}
+.stock-profile .value {
+  font-weight: bold;
+}
+.news-row {
+  margin-bottom: 2rem;
+}
+.image-placeholder {
+  background-color: #f8f8f8;
+  position: relative;
+  background-position: center;
+}
+.image-placeholder a {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.news-related-tag {
+  color: rgb(0, 111, 232);
+  background-color: #f8f8f8;
+  padding: 0.4rem;
+  margin: 0 1rem;
+}

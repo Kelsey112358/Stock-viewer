@@ -1,0 +1,26 @@
+.sector-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.sector-performance-block {
+  display: inline-block;
+  width: 23%;
+  background: #f9f1f1;
+  border: 1px solid #d1c1c1;
+  margin: 1%;
+  padding: 1%;
+  min-height: 130px;
+  vertical-align: top;
+  position: relative;
+}
+.sector-name {
+  text-align: left;
+}
+.sector-performance {
+  text-align: right;
+  position: absolute;
+  right: 5%;
+  bottom: 0;
+}

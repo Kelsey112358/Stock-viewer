@@ -1,0 +1,25 @@
+.briefing-block {
+  display: inline-block;
+  width: 18%;
+  background: #f9f1f1;
+  border: 1px solid #d1c1c1;
+  margin: 1%;
+  min-height: 180px;
+  vertical-align: top;
+  position: relative;
+}
+.briefing-name {
+  text-align: left;
+  padding: 5px;
+}
+.briefing-performance {
+  text-align: right;
+  position: absolute;
+  bottom: 0;
+  right: 5px;
+}
+.briefing-block i {
+  position: absolute;
+  right: 5px;
+  top: 5px;
+}

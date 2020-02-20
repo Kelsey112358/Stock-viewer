@@ -1,0 +1,37 @@
+.sections {
+  padding: 0 5%;
+}
+.section-title {
+  font-family: 'Poppins-SemiBold';
+  font-size: 4rem;
+  color: #000000;
+  text-align: left;
+}
+.section-title-small {
+  font-family: 'Poppins-SemiBold';
+  font-size: 2rem;
+  color: #000000;
+  text-align: left;
+}
+.content-3 {
+  font-family: 'Poppins-regular';
+  font-size: 3rem;
+  color: #000000;
+  text-align: left;
+  margin-right: 1rem;
+}
+.content-2 {
+  font-family: 'Poppins-regular';
+  font-size: 2rem;
+  color: #000000;
+  text-align: left;
+}
+.ant-table-thead > tr > th {
+  background: #f9f1f1;
+}
+.green {
+  color: green;
+}
+.red {
+  color: red;
+}
